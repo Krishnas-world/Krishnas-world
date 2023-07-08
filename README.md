@@ -4,4 +4,3 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Krishnas-world)](https://github.com/ryo-ma/github-profile-trophy)
