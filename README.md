@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA, PYTHON AND AIML**
 
-- 👨‍💻 Access My Portfolio at [krishnasworld.netlify.app](krishnasworld.netlify.app)
+- 👨‍💻 Access My Portfolio at [krishnasworld.netlify.app](https://krishnasworld.netlify.app)
 
 - 💬 Ask me anything about **WEB DEVELOPMENT**
 
