@@ -36,3 +36,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
 <hr>
+
+<h2>HACKTOBER-FEST 2023</h2>
+[![An image of @krishnasworld's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnasworld)](https://holopin.io/@krishnasworld)
