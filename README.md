@@ -1,36 +1,36 @@
 <h1 align="center">Hi 👋, I'm Krishna H Pallan</h1>
 <h3 align="center">A passionate Full-Stack Developer!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnas-world" alt="krishnas-world" /></a> </p>
+Student at Canara Engineering College | HTML/CSS & Javascript, ReactJS, NodeJS.
 
-- 🌱 I’m currently learning **JAVA, PYTHON AND AIML**
+* 🌍  I'm based in INDIA
+* 🖥️  See my portfolio at [Here](http://krishnasworld.netlify.app)
+* ✉️  You can contact me at [krishnapallan95@gmail.com](mailto:krishnapallan95@gmail.com)
+* 🚀  I'm currently working on [AETHERIAL](http://aetherial.netlify.app)
+* 🧠  I'm learning JAVA
+* 🤝  I'm open to collaborating on Development Projects
+* ⚡  Fun Fact - I don't need coffee to code :P
 
-- 👨‍💻 Access My Portfolio at [krishnasworld.netlify.app](https://krishnasworld.netlify.app)
 
-- 💬 Ask me anything about **WEB DEVELOPMENT**
+<a href="https://www.github.com/Krishnas-world" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Krishnas-world?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- 📫 How to reach me **krishnapallan95@gmail.com**
 
-- ⚡ Fun fact **I don't need coffee to code :/**
+### Badges
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/krishnas-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishnas-world" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishnapallan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnapallan" height="30" width="40" /></a>
-<a href="https://instagram.com/krishnasworld._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnasworld._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishnapersonal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishnapersonal1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishnas-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnas-world" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@krishnas-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@krishnas-world" height="30" width="40" /></a>
-</p>
+<b>My GitHub Stats</b>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<a href="http://www.github.com/Krishnas-world"><img src="https://github-readme-stats.vercel.app/api?username=Krishnas-world&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Krishnas-world's GitHub stats" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnas-world&show_icons=true&locale=en&layout=compact" alt="krishnas-world" /></p>
+<a href="http://www.github.com/Krishnas-world"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnas-world&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnas-world&show_icons=true&locale=en" alt="krishnas-world" /></p>
+<a href="http://www.github.com/Krishnas-world"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishnas-world&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnas-world&" alt="krishnas-world" /></p>
+<a href="https://github.com/Krishnas-world" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnas-world&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Krishnas-world/AETHERIAL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnas-world&repo=AETHERIAL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <b><h1>MY SKILL SET:</h1></b>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
