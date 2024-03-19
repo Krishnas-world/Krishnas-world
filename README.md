@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/Krishnas-world?logo=github&style=fo
 
 
 <b><h1>MY SKILL SET:</h1></b>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mongo,express,react,nodejs,js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
 <hr>
 
