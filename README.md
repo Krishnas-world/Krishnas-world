@@ -35,4 +35,4 @@ src="https://img.shields.io/github/followers/Krishnas-world?logo=github&style=fo
 <hr>
 
 <h2>HACKTOBER-FEST-2023</h2>
-[![An image of @krishnasworld's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnasworld)](https://holopin.io/@krishnasworld)
+[![An image of @krishnasworld's Holopin made badges, which is a link to view their full Holopin profile](https://holopin.me/krishnasworld)](https://holopin.io/@krishnasworld)
