@@ -1,9 +1,9 @@
 <p align="center"><img align="center" height="300"src="bg.png" alt="Introduction"></p> 
-<hr />
+
 <h1 align="center">Hi 👋, I'm Krishna H Pallan</h1>
 <h3 align="center">A passionate Full-Stack Developer!</h3>
 
-Student at Canara Engineering College | HTML/CSS & Javascript, ReactJS, NodeJS.
+<p align="center">Student at Canara Engineering College | HTML/CSS & Javascript, ReactJS, NodeJS.</p>
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [Here](http://krishnasworld.netlify.app)
