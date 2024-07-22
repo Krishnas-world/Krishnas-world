@@ -1,3 +1,5 @@
+<p align="center"><img align="center" height="300"src="bg.png" alt="Introduction"></p> 
+<hr />
 <h1 align="center">Hi 👋, I'm Krishna H Pallan</h1>
 <h3 align="center">A passionate Full-Stack Developer!</h3>
 
