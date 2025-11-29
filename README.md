@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Krishna
 
-### 🚀 Developer • Backend Engineer • System Designer  
+### Developer • Backend Engineer • System Designer  
 *Building products that solve real problems — fast, scalable, and beautiful.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnapallan/)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm **Krishna**, a developer obsessed with creating **fast, scalable, and clean systems**.  
 Java → Backend → System Design → Full Stack → AI → Trading Systems ⚡
@@ -29,7 +29,7 @@ Java → Backend → System Design → Full Stack → AI → Trading Systems ⚡
 - 🌱 Learning: **Spring Boot, Microservices, Distributed Systems**
 - 💬 Ask me about: **Backend, Java, System Design, DSA**
 - 🔥 Passion: Real-world scalable systems
-- ⚡ Fun fact: I debug faster than I code 😎
+- ⚡ Fun fact: I don't need coffee to code 😎
 
 <br clear="right"/>
 
@@ -69,7 +69,7 @@ Java → Backend → System Design → Full Stack → AI → Trading Systems ⚡
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Java → Backend → System Design → Full Stack → AI → Trading Systems ⚡
 <tr>
 <td width="50%">
 
-### 🎪 Aakriti 2025 – Fest Registration  
+### Aakriti 2025 – College Fest Platform  
 **Next.js • Firebase • Razorpay**
 
 - ⚡ **2200+ concurrent users**
@@ -87,7 +87,7 @@ Java → Backend → System Design → Full Stack → AI → Trading Systems ⚡
 </td>
 <td width="50%">
 
-### 🛡️ Aetherial – Smart Helmet  
+### Aetherial – Smart Helmet  
 **React • IoT • Arduino**
 
 - 🥉 Won **3rd place** at VVCE Infothon  
@@ -100,7 +100,7 @@ Java → Backend → System Design → Full Stack → AI → Trading Systems ⚡
 <tr>
 <td width="50%">
 
-### 🧠 MindCare – AI Mental Health  
+### MindCare – AI Mental Health  
 **Next.js • TensorFlow • MongoDB**
 
 - 🤖 Sentiment analysis  
@@ -110,7 +110,7 @@ Java → Backend → System Design → Full Stack → AI → Trading Systems ⚡
 </td>
 <td width="50%">
 
-### ⚡ High-Performance Matching Engine  
+### High-Performance Matching Engine  
 **Java • Spring Boot • DSA**
 
 - 🎯 Price-time priority  
@@ -138,8 +138,6 @@ Java → Backend → System Design → Full Stack → AI → Trading Systems ⚡
 </div>
 
 ---
-
-# 🐍 Contribution Snake
 
 <div align="center">
   
